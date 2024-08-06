@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/inforce-test/static/css/main.78e4b246.css",
+    "main.js": "/inforce-test/static/js/main.3fd99a64.js",
+    "index.html": "/inforce-test/index.html",
+    "main.78e4b246.css.map": "/inforce-test/static/css/main.78e4b246.css.map",
+    "main.3fd99a64.js.map": "/inforce-test/static/js/main.3fd99a64.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78e4b246.css",
+    "static/js/main.3fd99a64.js"
+  ]
+}
