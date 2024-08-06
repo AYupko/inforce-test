@@ -8,7 +8,7 @@
 
 ## Installation and Local Setup
   ### Clone the repository
-  git clone https://github.com/AYupko/star-wars-heroes.git
+  git clone https://github.com/AYupko/inforce-test.git
 
   ### Install dependencies
   npm install
