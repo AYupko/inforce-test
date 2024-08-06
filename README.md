@@ -1,9 +1,7 @@
 # Product list web app
 
-## [DEMO](https://star-wars-heroes-lovat.vercel.app/)
-
 ## Description
-  This web application allows interracts with fake json server and allows to fetch, add and delete products
+  This web application allows interracts with json server and allows to fetch, add and delete products
 
 ## Technologies
   JavaScript, React, TypeScript, Redux, Axios, SCSS, HTML, Json-server;
